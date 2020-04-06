@@ -1,4 +1,2 @@
-# Villegas Octavio
+# Sosa Lucas Nahuel
 # Tutorial de Git + GitHub
-
-complete los datosn aquí!!!
